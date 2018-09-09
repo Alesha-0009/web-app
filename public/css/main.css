@@ -1,0 +1,25 @@
+.m-h{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.m-top{
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.m-width{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 8px;
+}
+
+.my-class{
+    margin-left: 29%;
+    margin-top: -46px;
+}
+
+.m-table{
+    margin-top: 40px;
+}
